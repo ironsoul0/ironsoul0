@@ -7,5 +7,5 @@ Previously worked at [@Yandex](https://github.com/yandex), [@Ethereum](https://g
 Also, visit my [website](https://ironsoul.lol) and [twitter](https://twitter.com/ironsoul0) for more info.
 
 Cheers,
-
+<br />
 0x69726f6e736f756c
